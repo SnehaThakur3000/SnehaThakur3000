@@ -5,7 +5,7 @@ Hi! I’m Sneha Thakur . I’m learning to code and starting to build my GitHub 
  Current Learning Goals
 - Languages: Python, C, etc.
 - Skills: Basic programming, data structures, algorithms
-- Projects in Progress: Simple console applications, small scripts, or challenges from coding platforms
+
 
  Future Projects
 I plan to work on:
